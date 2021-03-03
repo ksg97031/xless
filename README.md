@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">The Serverless Blind XSS App</h4>
+<h4 align="center">The Serverless Blind XSS App</h4>d
 
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2021.svg?style=flat-square" alt="Maintained" />
